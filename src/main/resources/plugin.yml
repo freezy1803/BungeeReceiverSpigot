@@ -1,0 +1,5 @@
+main: org.example.BungeeReceiver
+name: BungeeReceiver-Spigot
+author: EinsFreezy
+version: 1.0
+api-version: 1.16
